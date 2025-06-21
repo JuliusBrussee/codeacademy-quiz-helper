@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.0
 // @description  Displays correct answers for all question types by perfectly matching visible question text. Includes a manual resync button.
-// @author       Roo (Final Refinement)
+// @author       Julius Brussee 
 // @match        https://www.codecademy.com/paths/*/tracks/*/modules/*/quizzes/*
 // @grant        GM_addStyle
 // ==/UserScript==
